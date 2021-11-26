@@ -1,5 +1,7 @@
 This is the Menu
 - [Go to Header](https://github.com/markbalechy/ReadMe-Format-Practice/blob/main/README.md#readme-format-practice)
+- [Section2](https://github.com/markbalechy/ReadMe-Format-Practice/blob/main/README.md#yep-and-this-is-definately-another-section)
+- [Section3](https://github.com/markbalechy/ReadMe-Format-Practice/blob/main/README.md#yep-and-this-is-definately-another-section)
 
 # ReadMe-Format-Practice
 
