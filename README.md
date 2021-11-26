@@ -1,3 +1,6 @@
+This is the Menu
+- [Go to Header](https://github.com/markbalechy/ReadMe-Format-Practice/blob/main/README.md#readme-format-practice)
+
 # ReadMe-Format-Practice
 
 ![Read Me Img](https://thumbs.dreamstime.com/b/book-character-cute-illustration-read-me-icon-logo-illustration-vector-book-character-cute-illustration-read-me-icon-211474802.jpg)
